@@ -1,3 +1,6 @@
+# UNRELEASED
+- [breaking] Upgrade docker from `docker-engine-1.12` to `docker-ce-17.03`
+
 # 1.10.3 (20.06.2018)
 - CoreDNS update to [1.1.4](https://github.com/coredns/coredns/releases/tag/v1.1.4)
 
